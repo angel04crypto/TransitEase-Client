@@ -1,52 +1,53 @@
-#TransitEase – Client (Frontend)
+##TransitEase – Client (Frontend)
 
 
-#Overview
+##Overview
 TransitEase is a full-stack travel aggregation platform that allows users to:
-•Search intercity transport routes
-•View dynamically generated pricing
-•Authenticate securely using Firebase
-•Initiate bookings
-•Redirect to official provider websites for payment
-•View booking history in a protected dashboard
+1. Search intercity transport routes
+2. View dynamically generated pricing
+3. Authenticate securely using Firebase
+4. Initiate bookings
+5. Redirect to official provider websites for payment
+6.View booking history in a protected dashboard
 
 This frontend is built using React + Vite and communicates with a Node.js/Express backend.
 
 
-#Tech Stack
-•React
-•Vite
-•Axios
-•Firebase Authentication
-•Tailwind CSS
-•Framer Motion
-•Lucide Icons
+##Tech Stack
+1. React
+2. Vite
+3. Axios
+4. Firebase Authentication
+5. Tailwind CSS
+6. Framer Motion
+7. Lucide Icons
 
 
-#Features
-•User authentication (Firebase)
-•Protected routes
-•Search & filter journeys
-•Dynamic pricing display
-•Booking initiation
-•Travel history dashboard
-•External provider redirection
+##Features
+1. User authentication (Firebase)
+2. Protected routes
+3. Search & filter journeys
+4. Dynamic pricing display
+5. Booking initiation
+6. Travel history dashboard
+7. External provider redirection
 
 
-#Environment Variables
+##Environment Variables
 Create a .env file in the client root:
 VITE_API_BASE_URL=http://localhost:5000/api
 
 
-#Installation
-npm install
+##Installation
+1. npm install
 
 
-#Run Development Server
-npm run dev
+##Run Development Server
+
+2. npm run dev
 
 
-#App runs on:
+##App runs on:
 http://localhost:5174
 
 
