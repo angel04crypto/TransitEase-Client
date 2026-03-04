@@ -1,6 +1,15 @@
 ##TransitEase – Client (Frontend)
 
 
+## Live Demo
+
+🔗 **Frontend (Vercel)**  
+https://transit-ease-client.vercel.app
+
+⚙️ **Backend API (Railway)**  
+https://transitease-server-production.up.railway.app
+
+
 ##Overview
 TransitEase is a full-stack travel aggregation platform that allows users to:
 1. Search intercity transport routes
